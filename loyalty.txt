@@ -2,3 +2,5 @@ loyalty eklendi
 
 
 test2 eklendi
+
+test
